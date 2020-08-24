@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Gintoz-Todo-App/static/css/main.def35b09.chunk.css",
+    "main.js": "/Gintoz-Todo-App/static/js/main.d9144c7e.chunk.js",
+    "main.js.map": "/Gintoz-Todo-App/static/js/main.d9144c7e.chunk.js.map",
+    "runtime-main.js": "/Gintoz-Todo-App/static/js/runtime-main.6f917150.js",
+    "runtime-main.js.map": "/Gintoz-Todo-App/static/js/runtime-main.6f917150.js.map",
+    "static/js/2.ed75f1c0.chunk.js": "/Gintoz-Todo-App/static/js/2.ed75f1c0.chunk.js",
+    "static/js/2.ed75f1c0.chunk.js.map": "/Gintoz-Todo-App/static/js/2.ed75f1c0.chunk.js.map",
+    "index.html": "/Gintoz-Todo-App/index.html",
+    "precache-manifest.f3476e42343327988d4dd1b4c34c067c.js": "/Gintoz-Todo-App/precache-manifest.f3476e42343327988d4dd1b4c34c067c.js",
+    "service-worker.js": "/Gintoz-Todo-App/service-worker.js",
+    "static/css/main.def35b09.chunk.css.map": "/Gintoz-Todo-App/static/css/main.def35b09.chunk.css.map",
+    "static/js/2.ed75f1c0.chunk.js.LICENSE.txt": "/Gintoz-Todo-App/static/js/2.ed75f1c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f917150.js",
+    "static/js/2.ed75f1c0.chunk.js",
+    "static/css/main.def35b09.chunk.css",
+    "static/js/main.d9144c7e.chunk.js"
+  ]
+}
